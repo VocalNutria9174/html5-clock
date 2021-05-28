@@ -1,2 +1,2 @@
 # html5-clock
-It's just a clock. But ok????? (i guess...)
+It's just an html5 clock. But ok????? (i guess...)
